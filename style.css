@@ -2,6 +2,20 @@ body{
     margin: 0;
     font-family: Arial, sans-serif;
 }
+header {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #f8f9fa;
+}
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3c83ce;
+    color: rgb(13, 136, 70);
+    text-decoration: none;
+    border-radius: 5px;
+}
+
 
 nav{
     position: fixed;
